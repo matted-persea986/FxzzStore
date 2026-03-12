@@ -1,0 +1,14 @@
+{
+  "name": "fxzzstore-pro",
+  "version": "2.0.0",
+  "description": "Lightweight private Steam account vault with admin dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2"
+  }
+}

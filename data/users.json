@@ -1,0 +1,58 @@
+[
+  {
+    "id": "u_admin_1",
+    "email": "admin@fxzzstore.local",
+    "password": "Admin@2026",
+    "role": "admin",
+    "name": "Fxzz Admin",
+    "avatar": "/assets/avatars/avatar-admin.svg",
+    "active": true,
+    "createdAt": "2026-03-12T09:00:00.000Z",
+    "lastLoginAt": "2026-03-12T04:20:08.391Z",
+    "lastSeenAt": "2026-03-12T04:20:08.391Z",
+    "deviceLimit": 2,
+    "notes": "Full access"
+  },
+  {
+    "id": "u_user_1",
+    "email": "user1@fxzzstore.local",
+    "password": "User@2026",
+    "role": "user",
+    "name": "Mohammed Saleh",
+    "avatar": "/assets/avatars/avatar-1.svg",
+    "active": true,
+    "createdAt": "2026-03-12T09:00:00.000Z",
+    "lastLoginAt": null,
+    "lastSeenAt": null,
+    "deviceLimit": 1,
+    "notes": "Main member"
+  },
+  {
+    "id": "u_user_2",
+    "email": "user2@fxzzstore.local",
+    "password": "User@2026",
+    "role": "user",
+    "name": "Ammar Nasser",
+    "avatar": "/assets/avatars/avatar-2.svg",
+    "active": true,
+    "createdAt": "2026-03-12T09:00:00.000Z",
+    "lastLoginAt": null,
+    "lastSeenAt": null,
+    "deviceLimit": 1,
+    "notes": "Shared with no one"
+  },
+  {
+    "id": "u_1773289230610",
+    "email": "hussain@gmail.com",
+    "password": "A8Ag22kr",
+    "role": "user",
+    "name": "hussain",
+    "avatar": "/assets/avatars/avatar-3.svg",
+    "active": true,
+    "createdAt": "2026-03-12T04:20:30.610Z",
+    "lastLoginAt": "2026-03-12T04:21:32.279Z",
+    "lastSeenAt": "2026-03-12T04:38:47.173Z",
+    "deviceLimit": 1,
+    "notes": ""
+  }
+]

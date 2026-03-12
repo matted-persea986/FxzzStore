@@ -1,0 +1,54 @@
+[
+  {
+    "token": "82279a3af69683fa58b58f852da92e1c3afe8226b872ed47",
+    "userId": "u_admin_1",
+    "deviceId": "FXZZ-01D8-QL9X",
+    "createdAt": "2026-03-12T04:19:57.396Z",
+    "revoked": true,
+    "deviceLabel": "Desktop • Edge",
+    "deviceType": "Desktop",
+    "deviceOs": "Windows",
+    "browser": "Edge",
+    "lastSeen": "2026-03-12T04:20:03.904Z",
+    "ip": "::1"
+  },
+  {
+    "token": "b5b3248731ecaf387e0f535ab007b8579753060368057a01",
+    "userId": "u_admin_1",
+    "deviceId": "FXZZ-01D8-QL9X",
+    "createdAt": "2026-03-12T04:20:08.391Z",
+    "revoked": true,
+    "deviceLabel": "Desktop • Edge",
+    "deviceType": "Desktop",
+    "deviceOs": "Windows",
+    "browser": "Edge",
+    "lastSeen": "2026-03-12T04:20:34.012Z",
+    "ip": "::1"
+  },
+  {
+    "token": "09aa5db1019c1b46381fe81481f863beba1cb3e7efe204d7",
+    "userId": "u_1773289230610",
+    "deviceId": "FXZZ-01D8-QL9X",
+    "createdAt": "2026-03-12T04:20:57.029Z",
+    "revoked": true,
+    "deviceLabel": "Desktop • Edge",
+    "deviceType": "Desktop",
+    "deviceOs": "Windows",
+    "browser": "Edge",
+    "lastSeen": "2026-03-12T04:21:25.172Z",
+    "ip": "::1"
+  },
+  {
+    "token": "0a6368a5a5440bce765a2c9283005788ec30a3a26d02e258",
+    "userId": "u_1773289230610",
+    "deviceId": "FXZZ-01D8-QL9X",
+    "createdAt": "2026-03-12T04:21:32.279Z",
+    "revoked": false,
+    "deviceLabel": "Desktop • Edge",
+    "deviceType": "Desktop",
+    "deviceOs": "Windows",
+    "browser": "Edge",
+    "lastSeen": "2026-03-12T04:38:47.172Z",
+    "ip": "::1"
+  }
+]

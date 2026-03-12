@@ -1,0 +1,52 @@
+[
+  {
+    "id": "g1",
+    "game": "Rust",
+    "category": "Survival",
+    "username": "fxzz_rust_01",
+    "password": "Rust#2026!",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "status": "ready",
+    "note": "High priority account"
+  },
+  {
+    "id": "g2",
+    "game": "EA SPORTS FC 25",
+    "category": "Sports",
+    "username": "fxzz_fc25_02",
+    "password": "Fc25!Store",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669320/header.jpg",
+    "status": "ready",
+    "note": "Updated weekly"
+  },
+  {
+    "id": "g3",
+    "game": "Grand Theft Auto V",
+    "category": "Action",
+    "username": "fxzz_gta_03",
+    "password": "GtaV@Steam",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
+    "status": "ready",
+    "note": "Rockstar linked"
+  },
+  {
+    "id": "g4",
+    "game": "PUBG: BATTLEGROUNDS",
+    "category": "Battle Royale",
+    "username": "fxzz_pubg_04",
+    "password": "Pubg#Safe",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
+    "status": "ready",
+    "note": "Stable"
+  },
+  {
+    "id": "g5",
+    "game": "DayZ",
+    "category": "Survival",
+    "username": "fxzz_dayz_05",
+    "password": "Dayz!Safe",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg",
+    "status": "maintenance",
+    "note": "Temporary check"
+  }
+]

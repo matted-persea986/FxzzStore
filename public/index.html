@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#07110a" />
+  <title>FxzzStore | تسجيل الدخول</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body class="theme-green auth-body">
+  <div id="loader" class="loader-screen active">
+    <div class="loader-box glass-card">
+      <div class="loader-logo">FxzzStore</div>
+      <div class="loader-bar"><span></span></div>
+      <p>جاري تجهيز الدخول الآمن...</p>
+    </div>
+  </div>
+
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <div class="bg-grid"></div>
+  <div class="noise-layer"></div>
+
+  <main class="auth-layout auth-layout-luxe">
+    <section class="glass-card auth-card auth-card-main">
+      <div class="brand-line brand-line-large">
+        <span class="brand-dot"></span>
+        <strong>FxzzStore</strong>
+      </div>
+
+  
+
+      <form id="loginForm" class="form-stack auth-form">
+        <label>
+          <span>البريد الإلكتروني</span>
+          <input type="email" id="email" placeholder="name@fxzzstore.local" required />
+        </label>
+        <label>
+          <span>كلمة المرور</span>
+          <input type="password" id="password" placeholder="••••••••••" required />
+        </label>
+        <button class="primary-btn primary-btn-hero" type="submit"> تسجيل دخول</button>
+      </form>
+
+      <div class="demo-boxes compact">
+        <div class="info-item">
+          <small>تركي يا سبك  </small>
+          <strong>يا ببروني</strong>
+        </div>
+        <div class="info-item">
+          <small>رياض يا حمار</small>
+          <strong>انا فيب انا جده</strong>
+        </div>
+      </div>
+
+      <div id="authMessage" class="status-box hidden"></div>
+    </section>
+
+    <section class="auth-side">
+      <div class="glass-card hero-card hero-card-rich">
+        <div class="hero-side-top">
+          <span class="eyebrow">FXZZ EXPERIENCE</span>
+          <h2>   متجر FxzzStore </h2>
+        </div>
+          </article>
+        
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="toast" class="toast"></div>
+
+  <script src="/shared.js"></script>
+  <script src="/login.js"></script>
+</body>
+</html>
